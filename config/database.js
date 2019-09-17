@@ -1,4 +1,5 @@
 module.exports = {
     remoteUrl : 'mongodb://simulatordb:NLrWC26b9rqTvmQSEM0CjwIP5ilQRa8zzYcKnZGTQmvWoUHzJOiAk15BWsfF8geVpal2lh0WEeu4gMWwDyCLcg==@simulatordb.documents.azure.com:10255/?ssl=true',
+    remoteUrl : 'mongodb://rndsimulator:OXmp9DM67vmKToAiOJHuocUcudFZ5ugdx3YnywP296RAAvY1ulTuievpnRDFJTqzgXBgHVamLT9VXVuDcRU1kg==@rndsimulator.documents.azure.com:10255/?ssl=true',
     localUrl: 'mongodb://localhost/meanstacktutorials'
 };
