@@ -1,5 +1,5 @@
 module.exports = {
-    remoteUrl : 'mongodb://localhost:27017/test_db'
+    remoteUrl : 'mongodb://md2kqazc:27017/test_db'
     //(Cosmos Emulator url)remoteUrl : 'mongodb://localhost:C2y6yDjf5%2FR%2Bob0N8A7Cgv30VRDJIWEHLM%2B4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw%2FJw%3D%3D@localhost:10255/admin?ssl=true'
     //remoteUrl : 'mongodb://simulatornd:DfckcFbf5V3Jl0DjJACprsgrcOoXlH0JEbLu1owFVcDIXaVGOh6msYLK7mAxfWpcKPKstEJ5jwpj5hOYvwF7pQ==@simulatornd.documents.azure.com:10255/?ssl=true'
     //'mongodb://localhost:C2y6yDjf5%2FR%2Bob0N8A7Cgv30VRDJIWEHLM%2B4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw%2FJw%3D%3D@localhost:10255/admin?ssl=true'
